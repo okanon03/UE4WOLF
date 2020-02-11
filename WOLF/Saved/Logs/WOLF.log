@@ -611,3 +611,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.11-07.11.08:699][580]LogRenderer: Reallocating scene render targets to support 1256x520 Format 9 NumSamples 1 (Frame:554).
 [2020.02.11-07.11.08:788][581]LogRenderer: Reallocating scene render targets to support 1256x572 Format 9 NumSamples 1 (Frame:556).
 [2020.02.11-07.11.08:877][582]LogRenderer: Reallocating scene render targets to support 1256x588 Format 9 NumSamples 1 (Frame:558).
+[2020.02.11-07.32.02:003][775]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f787213d-20bc-4b4e-98ce-dc2d462f72b7}.
+[2020.02.11-07.32.02:003][775]LogTemp: Resetting audio stream to device id 
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Name: スピーカー (Apple Audio Device)
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: Channel Order:
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-07.32.02:034][775]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-07.41.57:196][555]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a3e925cd-fd06-42a1-9a72-96c1ca365a96}.
+[2020.02.11-07.41.57:196][555]LogTemp: Resetting audio stream to device id 
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Name: 1 - PA329 (AMD High Definition Audio Device)
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: Channel Order:
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-07.41.57:224][555]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-07.42.42:953][691]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a3e925cd-fd06-42a1-9a72-96c1ca365a96}.
+[2020.02.11-07.42.42:953][691]LogTemp: Resetting audio stream to device id 
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Name: 1 - PA329 (AMD High Definition Audio Device)
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: Channel Order:
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-07.42.42:970][691]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-07.45.10:243][130]LogRenderer: Reallocating scene render targets to support 1572x684 Format 9 NumSamples 1 (Frame:856).
+[2020.02.11-07.45.10:389][130]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.11-07.45.10:425][130]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2020.02.11-07.45.10:437][130]LogRenderer: Reallocating scene render targets to support 2096x912 Format 9 NumSamples 1 (Frame:857).
+[2020.02.11-07.45.10:731][131]LogRenderer: Reallocating scene render targets to support 2100x948 Format 9 NumSamples 1 (Frame:859).
+[2020.02.11-07.45.20:472][185]LogRenderer: Reallocating scene render targets to support 2100x952 Format 9 NumSamples 1 (Frame:1931).
+[2020.02.11-07.47.02:267][ 93]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.11-07.47.02:267][ 93]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2020.02.11-07.47.02:297][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WOLF/Level/HunterTest" FILE="D:/UE4WOLF/WOLF/Content/WOLF/Level/HunterTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-07.47.02:331][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.11-07.47.02:340][ 93]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/HunterTest416A255C44D0D3101AD69895B8698F82.tmp' to 'D:/UE4WOLF/WOLF/Content/WOLF/Level/HunterTest.umap'
+[2020.02.11-07.47.02:343][ 93]LogFileHelpers: Saving map 'HunterTest' took 0.047
+[2020.02.11-07.47.02:355][ 93]AssetCheck: New page: Asset Save: HunterTest
+[2020.02.11-07.47.02:355][ 93]LogContentValidation: Display: Validating World /Game/WOLF/Level/HunterTest.HunterTest
+[2020.02.11-07.47.03:629][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WOLF/Level/MainMenu" FILE="D:/UE4WOLF/WOLF/Content/WOLF/Level/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-07.47.03:663][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.11-07.47.03:670][241]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/MainMenuFB476D4D45ABB57211A7689CA495BACA.tmp' to 'D:/UE4WOLF/WOLF/Content/WOLF/Level/MainMenu.umap'
+[2020.02.11-07.47.03:671][241]LogFileHelpers: Saving map 'MainMenu' took 0.042
+[2020.02.11-07.47.03:684][241]AssetCheck: New page: Asset Save: MainMenu
+[2020.02.11-07.47.03:684][241]LogContentValidation: Display: Validating World /Game/WOLF/Level/MainMenu.MainMenu
+[2020.02.11-07.47.04:295][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WOLF/Level/GameScene" FILE="D:/UE4WOLF/WOLF/Content/WOLF/Level/GameScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-07.47.04:330][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.11-07.47.04:337][309]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/GameScene4E14BCFA4F229B1FCAB927BCF5B8306A.tmp' to 'D:/UE4WOLF/WOLF/Content/WOLF/Level/GameScene.umap'
+[2020.02.11-07.47.04:337][309]LogFileHelpers: Saving map 'GameScene' took 0.043
+[2020.02.11-07.47.04:354][309]AssetCheck: New page: Asset Save: GameScene
+[2020.02.11-07.47.04:354][309]LogContentValidation: Display: Validating World /Game/WOLF/Level/GameScene.GameScene

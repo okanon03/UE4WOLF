@@ -670,3 +670,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.11-07.47.04:337][309]LogFileHelpers: Saving map 'GameScene' took 0.043
 [2020.02.11-07.47.04:354][309]AssetCheck: New page: Asset Save: GameScene
 [2020.02.11-07.47.04:354][309]LogContentValidation: Display: Validating World /Game/WOLF/Level/GameScene.GameScene
+[2020.02.11-07.54.23:753][986]LogSlate: Window '親クラスを選択' being destroyed
+[2020.02.11-07.54.32:310][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.11-07.54.33:766][997]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.11-07.54.33:897][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.11-07.54.38:891][336]LogSlate: Window '親クラスを選択' being destroyed
+[2020.02.11-07.54.47:023][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/WOLF/BluePrints/Hunter.Hunter
+[2020.02.11-07.54.47:222][300]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.11-07.55.01:567][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.HunterCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.SKEL_HunterCharacter_C' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.HunterCharacter_C' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.HunterCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.HunterCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:573][879]LogMetaData: Removing '/Game/WOLF/BluePrints/HunterCharacter.HunterCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/WOLF/BluePrints/Hunter.PackageMetaData'
+[2020.02.11-07.55.01:600][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WOLF/BluePrints/HunterCharacter" FILE="D:/UE4WOLF/WOLF/Content/WOLF/BluePrints/HunterCharacter.uasset" SILENT=true
+[2020.02.11-07.55.01:611][879]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/HunterCharacter501832DC4D5BC8FCFBAB2D8A4E8CA55E.tmp' to 'D:/UE4WOLF/WOLF/Content/WOLF/BluePrints/HunterCharacter.uasset'
+[2020.02.11-07.55.01:785][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.11-07.55.01:829][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.11-07.55.01:859][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.11-07.55.01:906][879]AssetCheck: New page: Asset Save: HunterCharacter
+[2020.02.11-07.55.01:906][879]LogContentValidation: Display: Validating Blueprint /Game/WOLF/BluePrints/HunterCharacter.HunterCharacter
+[2020.02.11-07.55.03:807][ 93]LogSlate: Window 'HunterCharacter' being destroyed
+[2020.02.11-07.55.03:817][ 93]LogSlate: Window 'HunterCharacter' being destroyed
+[2020.02.11-07.55.03:829][ 93]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-07.55.03:829][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-07.55.47:959][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="D:/UE4WOLF/WOLF/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-07.55.47:993][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.11-07.55.48:191][997]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/ThirdPersonExampleMapDD8DE0E64E70637B36F222BFB77A2FFF.tmp' to 'D:/UE4WOLF/WOLF/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.11-07.55.48:205][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/UE4WOLF/WOLF/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.11-07.55.48:310][997]LogSavePackage: Moving 'D:/UE4WOLF/WOLF/Saved/ThirdPersonExampleMap_BuiltData1B3C2A3F494A624B67E76796D4F8FC60.tmp' to 'D:/UE4WOLF/WOLF/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.11-07.55.48:327][997]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.11-07.55.48:327][997]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.11-07.55.48:327][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.02.11-07.55.51:746][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
